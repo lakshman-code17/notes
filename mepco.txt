@@ -1,0 +1,4 @@
+10/24 : Discussion to split api gateway
+10/27 : Friday - split webview api into pci and non-pci account. Provide solution to use the same repo but deploy two stacks in separate accounts with CDK. manage cross account permissions and automate the api and lambda setup
+10/29 : Provided new cdk code repository with solution to the above. but could not simulate .NET environment in cloud9. hence used a sample nodejs to prove the logic. Provided instructions to replace nodejs with .net lambda
+10/31 : Clarification on the cdk code for configuring cross account lambda invoke permissions. 
